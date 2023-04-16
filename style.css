@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(66, 64, 64);
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+    margin: 16px;
+}
+
+.container{
+    
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+h1{
+    margin: 10px;
+    font-size: 6rem;
+    color: rgb(249, 0, 0);
+    font-family: 'Alkatra', cursive;
+
+}
+
+p{
+    font-size: 2.5rem;
+    color: rgb(249, 0, 0);
+    font-family: 'Indie Flower', cursive;
+
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-family: 'Alkatra', cursive;
+    margin-top:4%;
+
+}
+
+
+
